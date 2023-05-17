@@ -1,0 +1,20 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^ms\.mindstay\.in$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.ms\.mindstay\.in$
+RewriteRule ^/?$ "https\:\/\/ms\.mindstay\.in\/login\.html" [R=301,L]
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php [NC,L] 
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.html -f
+RewriteRule ^(.*)$ $1.html [NC,L]
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “alt-php52” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-alt-php52 .php .php5 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit

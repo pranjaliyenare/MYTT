@@ -1,0 +1,155 @@
+<HTML>
+<HEAD>
+<TITLE>Swipez - Payment Page</TITLE>
+
+
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<style>
+	  h1       { font-family:Arial,sans-serif; font-size:24pt; color:#08185A; font-weight:100; margin-bottom:0.1em }
+    h2.co    { font-family:Arial,sans-serif; font-size:24pt; color:#FFFFFF; margin-top:0.1em; margin-bottom:0.1em; font-weight:100 }
+    h3.co    { font-family:Arial,sans-serif; font-size:16pt; color:#000000; margin-top:0.1em; margin-bottom:0.1em; font-weight:100 }
+    h3       { font-family:Arial,sans-serif; font-size:16pt; color:#08185A; margin-top:0.1em; margin-bottom:0.1em; font-weight:100 }
+    body     {
+	font-family:Verdana,Arial,sans-serif;
+	font-size:11px;
+	color:#08185A;
+	background-color: #FFFFFF;
+}
+	th 		 { font-size:12px;background:#015289;color:#FFFFFF;font-weight:bold;height:30px;}
+	td 		 { font-size:12px;background:#DDE8F3}
+	.pageTitle { font-size:24px;}
+.style2 {color: #FFFFFF}
+a:link {
+	color: #FFFFFF;
+}
+body,td,th {
+	color: #003399;
+}
+.style10 {color: #FFFFFF; font-style: italic; }
+.style11 {font-family: Verdana, Arial, Helvetica, sans-serif; color: #FFFFFF;}
+</style>
+</HEAD>
+
+<BODY LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0 >
+<center>
+
+ <table width='100%' cellpadding='0' cellspacing="0" ><tr><th width='90%'><h2 class='co'>&nbsp;Swipez Payment Integration Page - Version 1</h2></th></tr></table>
+     <center>
+       <h1> Example</H1>
+     </center>
+  <center>
+	   <table width="2" height="28" border="0" cellpadding="2" cellspacing="2">
+       </table>
+	   <h3> Swipez Required Details</H3>
+	   <table width="600" border="0" cellpadding="2" cellspacing="2">
+       </table>
+       <p>&nbsp;</p>
+       <table width="600" height="35" border="0" cellpadding="2" cellspacing="2">
+         <tr>
+           <th height="53" colspan="2"><div align="center"><span class="style2">Account Details</span></div></th>
+         </tr>
+       </table>
+  </center>
+<form  method="post" action="secure.php" name="frmTransaction" id="frmTransaction" >
+  <table width="600" cellpadding="2" cellspacing="2" border="0">
+  <tr>
+    <td class="fieldName" width="100%"><span class="error">*</span>Account Id</td>
+    <td  align="left" width="100%"><input name="account_id" type="text" value="M000004925">
+      </td>
+  </tr>
+    <tr>
+    <td class="fieldName"><span class="error">*</span>Return Url</td>
+    <td align="left"><input name="return_url" type="text" size="60" value="https://ms.mindstay.in/response.php" /></td>
+  </tr>
+   <tr>
+    <th colspan="2"><div align="center"><span class="style2">Transaction Details</span></div></th>
+  </tr>
+  <tr>
+    <td class="fieldName" width="100%"><span class="error"></span>Vendor ID</td>
+    <td  align="left" width="100%"><input name="vendor_id" value="0" type="number" /></td>
+  </tr>
+  <tr>
+    <td class="fieldName" width="100%"><span class="error">*</span>Reference No</td>
+    <td  align="left" width="100%"><input name="reference_no" type="text" /></td>
+  </tr>
+  <tr title="Enter the Price of the product that is offered for sale">
+    <td class="fieldName" width="100%"><span class="error">*</span>Sale Amount</td>
+    <td  align="left" width="100%"><input name="amount" type="text"/>
+      <strong>INR</strong></td>
+   </tr>
+  <tr  title="Displays the description of the selected / ordered product.">
+    <td class="fieldName" width="100%"><span class="error">*</span>Description</td>
+    <td  align="left" width="100%"><input name="description" type="text" /> </td>
+  </tr>
+  <tr>
+    <th colspan="2"><span class="style2">Billing Address</span></th>
+  </tr>
+  <tr>
+    <td class="fieldName"><span class="error">*</span>Name</td>
+    <td align="left">
+	<input name="name" type="text" maxlength="255" /> </td>
+  </tr>
+  <tr>
+    <td class="fieldName"><span class="error">*</span>Address</td>
+    <td align="left"><input name="address" type="text" />    </td>
+  </tr>
+  <tr>
+    <td class="fieldName"><span class="error">*</span>City</td>
+    <td align="left"><input name="city" type="text" />    </td>
+  </tr>
+  <tr>
+    <td class="fieldName"><span class="error">*</span>State/Province</td>
+    <td align="left"><input name="state" type="text" />    </td>
+  </tr>
+  <tr>
+    <td class="fieldName"><span class="error">*</span>ZIP/Postal Code</td>
+    <td align="left"><input name="postal_code" type="text" />    </td>
+  </tr>
+  
+  <tr>
+    <td class="fieldName"><span class="error">*</span>Email</td>
+    <td align="left"><input name="email" type="text" />    </td>
+  </tr>
+  <tr>
+    <td class="fieldName"><span class="error">*</span>Mobile</td>
+    <td align="left"><input name="phone" type="text" maxlength="20"/></td>
+  </tr>
+  <tr>
+    <td class="fieldName"><span class="error"></span>Udf1</td>
+    <td align="left"><input name="udf1" type="text" maxlength="20"/></td>
+  </tr>
+  <tr>
+    <td class="fieldName"><span class="error"></span>Udf2</td>
+    <td align="left"><input name="udf2" type="text" maxlength="20"/></td>
+  </tr>
+  <tr>
+    <td class="fieldName"><span class="error"></span>Udf3</td>
+    <td align="left"><input name="udf3" type="text" maxlength="20"/></td>
+  </tr>
+  <tr>
+    <td class="fieldName"><span class="error"></span>Udf4</td>
+    <td align="left"><input name="udf4" type="text" maxlength="20"/></td>
+  </tr>
+  <tr>
+    <td class="fieldName"><span class="error"></span>Udf5</td>
+    <td align="left"><input name="udf5" type="text" maxlength="20"/></td>
+  </tr>
+  
+ 
+ 
+
+   <tr>
+    <td valign="top" align="center" colspan="2"><input name="submitted" value="Submit" type="submit" />
+      &nbsp;
+      <input name="reset" type="reset" value="Reset" />    </td>
+  </tr>
+  <tr>
+    <th height="30" colspan="2"><span class="style2">*DENOTES </span><em>mandatory fields</em></th>
+  </tr>
+    </table>
+</form>
+</center>
+</table>
+</body>
+</html>

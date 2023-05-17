@@ -1,0 +1,71 @@
+[15-Nov-2021 06:42:54 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 2
+[15-Nov-2021 06:42:54 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 2
+[15-Nov-2021 06:42:54 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 2
+[15-Nov-2021 06:42:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 7
+[15-Nov-2021 06:42:54 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 9
+[15-Nov-2021 06:48:21 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 2
+[15-Nov-2021 06:48:21 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 2
+[15-Nov-2021 06:48:21 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 2
+[15-Nov-2021 06:48:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 7
+[15-Nov-2021 06:48:21 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 9
+[15-Nov-2021 06:51:14 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 2
+[15-Nov-2021 06:51:14 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 2
+[15-Nov-2021 06:51:14 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 2
+[15-Nov-2021 06:51:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 7
+[15-Nov-2021 06:51:14 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 9
+[15-Nov-2021 06:51:33 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 2
+[15-Nov-2021 06:51:33 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 2
+[15-Nov-2021 06:51:33 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 2
+[15-Nov-2021 06:51:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 7
+[15-Nov-2021 06:51:33 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 9
+[15-Nov-2021 06:51:50 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 2
+[15-Nov-2021 06:51:50 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 2
+[15-Nov-2021 06:51:50 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 2
+[15-Nov-2021 06:51:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 7
+[15-Nov-2021 06:51:50 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 9
+[15-Nov-2021 06:52:12 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 2
+[15-Nov-2021 06:52:12 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 2
+[15-Nov-2021 06:52:12 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 2
+[15-Nov-2021 06:52:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 7
+[15-Nov-2021 06:52:12 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 9
+[15-Nov-2021 06:58:59 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 2
+[15-Nov-2021 06:58:59 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 2
+[15-Nov-2021 06:58:59 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 2
+[15-Nov-2021 06:58:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 7
+[15-Nov-2021 06:58:59 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 9
+[15-Nov-2021 06:59:05 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 2
+[15-Nov-2021 06:59:05 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 2
+[15-Nov-2021 06:59:05 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 2
+[15-Nov-2021 06:59:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 7
+[15-Nov-2021 06:59:05 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 9
+[15-Nov-2021 07:02:16 UTC] PHP Warning:  include(./database.php): failed to open stream: No such file or directory in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 2
+[15-Nov-2021 07:02:16 UTC] PHP Warning:  include(./database.php): failed to open stream: No such file or directory in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 2
+[15-Nov-2021 07:02:16 UTC] PHP Warning:  include(): Failed opening './database.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 2
+[15-Nov-2021 07:02:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 7
+[15-Nov-2021 07:02:16 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 9
+[15-Nov-2021 07:02:46 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 72
+[15-Nov-2021 07:02:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php:71) in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 75
+[15-Nov-2021 07:03:07 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 72
+[15-Nov-2021 07:03:14 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 72
+[15-Nov-2021 07:25:09 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 72
+[17-Nov-2021 11:54:09 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 72
+[23-Nov-2021 11:44:26 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 72
+[07-Dec-2021 07:56:21 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 72
+[14-Dec-2021 07:34:56 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 72
+[15-Dec-2021 05:55:25 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 72
+[27-Dec-2021 07:08:22 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 72
+[01-Jan-2022 05:18:50 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 72
+[11-Feb-2022 13:55:48 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 72
+[07-Mar-2022 12:02:51 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 72
+[07-Mar-2022 12:06:23 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 72
+[12-Mar-2022 05:47:54 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 72
+[12-Mar-2022 05:48:46 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 72
+[12-Mar-2022 05:49:16 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 72
+[12-Mar-2022 05:49:35 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 72
+[21-Mar-2022 06:54:07 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 72
+[05-Apr-2022 06:43:09 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 72
+[08-Apr-2022 07:00:38 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 72
+[21-Apr-2022 07:32:51 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 72
+[04-Jul-2022 12:15:26 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 72
+[22-Jul-2022 11:23:52 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 72
+[06-Oct-2022 12:58:30 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/allianza/public_html/mytt.in/crm/DB_Backup/database_backup.php on line 72

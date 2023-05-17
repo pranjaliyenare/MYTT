@@ -1,0 +1,1 @@
+[28-Jan-2022 05:58:14 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/allianza/public_html/mytt.in/crm/xway/payment.php:2) in /home/allianza/public_html/mytt.in/crm/security.php on line 2
